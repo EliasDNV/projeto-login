@@ -24,7 +24,7 @@ section#login{
     overflow: hidden;/*É usado para colocar a imagem ou que estiver fora se esconder*/
     background-color: white;
     width: 250px;
-    height: 500px;
+    height: 300px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.753);
 

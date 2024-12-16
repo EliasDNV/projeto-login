@@ -11,10 +11,11 @@ grandes telas: 1200px para cima
 @media screen and (min-width: 768px) and (max-width: 992px){
     body{
         background-image: linear-gradient( to top, rgb(70, 119, 70), rgb(150, 87, 163));
-        height: 100vh;
+        
     }
     section#login{
         width: 80vw;
+        height: 80vh;
     }
     section#login > div#imagem {
         float: left;
