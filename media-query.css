@@ -8,7 +8,7 @@ tablet: 992px
 desktop: 1200px
 grandes telas: 1200px para cima
 */
-@media screen and (min-width: 768px) and (max-width: 992px){
+@media screen and (min-width: 668px) and (max-width: 992px){
     body{
         background-image: linear-gradient( to top, rgb(70, 119, 70), rgb(150, 87, 163));
     }
@@ -26,6 +26,9 @@ grandes telas: 1200px para cima
     }
 }
 @media screen and (min-width: 992px){
+    body{
+        background-image: linear-gradient( to top, rgb(70, 119, 70), rgb(150, 87, 163));
+    }
     section#login{
         width: 950px;
     }
